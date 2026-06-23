@@ -1,0 +1,13 @@
+---
+import Layout from '../layouts/Layout.astro';
+import TeamsDisplay from '../components/TeamsDisplay';
+---
+
+<Layout title="FTC Local Scoring System - Score Controller">
+  <div id="auth-container" class="h-full" data-auth-required="true">
+    <!-- Client-side rendering will determine whether to show login or controller -->
+    <div id="controller-container">
+      <TeamsDisplay client:only="react"/>
+    </div>
+  </div>
+</Layout>

@@ -1,0 +1,12 @@
+---
+import Layout from '../layouts/Layout.astro';
+import LoginForm from '../components/LoginForm.jsx';
+---
+
+<Layout title="FTC Local Scoring System - Score Controller">
+  <div id="auth-container" class="h-full" data-auth-required="true">
+    <div id="controller-container">
+      <LoginForm client:only="react" />
+    </div>
+  </div>
+</Layout>

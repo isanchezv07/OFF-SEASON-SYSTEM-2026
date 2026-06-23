@@ -1,0 +1,8 @@
+---
+import Layout from '../layouts/Layout.astro';
+import GameDisplay from '../components/GameDisplay';
+---
+
+<Layout title="Game Display">
+  <GameDisplay client:only="react" />
+</Layout>

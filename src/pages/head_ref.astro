@@ -1,0 +1,13 @@
+---
+import Layout from '../layouts/Layout.astro';
+import HeadReferee from '../components/roles/referee/HEAD/HeadReferee';
+---
+
+<Layout title="FTC Local Scoring System - Blue Referee">
+  <div id="auth-container" class="h-full" data-auth-required="true">
+    <!-- Client-side rendering will determine whether to show login or controller -->
+    <div id="controller-container">
+      <HeadReferee client:only="react"  />
+    </div>
+  </div>
+</Layout>

@@ -1,0 +1,65 @@
+[
+  {
+    "matchNumber": 1,
+    "redAlliance": [
+        "A1"
+    ],
+    "blueAlliance": [
+        "A4"
+    ]
+  },
+  {
+    "matchNumber": 2,
+    "redAlliance": [
+        "A2"
+    ],
+    "blueAlliance": [
+        "A3"
+    ]
+  },
+  {
+    "matchNumber": 3,
+    "redAlliance": [
+        "A1"
+    ],
+    "blueAlliance": [
+        "A2"
+    ]
+  },
+  {
+    "matchNumber": 4,
+    "redAlliance": [
+        "A3"
+    ],
+    "blueAlliance": [
+        "A4"
+    ]
+  },
+  {
+    "matchNumber": 5,
+    "redAlliance": [
+        "A1"
+    ],
+    "blueAlliance": [
+        "A3"
+    ]
+  },
+  {
+    "matchNumber": 6,
+    "redAlliance": [
+        "A2"
+    ],
+    "blueAlliance": [
+        "A4"
+    ]
+  },
+  {
+    "matchNumber": 7,
+    "redAlliance": [
+        "A3"
+    ],
+    "blueAlliance": [
+        "A1"
+    ]
+  }
+]

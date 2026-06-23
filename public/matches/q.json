@@ -1,0 +1,112 @@
+[
+  {
+    "matchNumber": 1,
+    "redAlliance": [23898, 23897, 23481],
+    "blueAlliance": [21802, 28255, 16818]
+  },
+  {
+    "matchNumber": 2,
+    "redAlliance": [26333, 999999, 31609],
+    "blueAlliance": [23651, 21735, 16818]
+  },
+  {
+    "matchNumber": 3,
+    "redAlliance": [23898, 31609, 16818],
+    "blueAlliance": [25845, 28254, 23481]
+  },
+  {
+    "matchNumber": 4,
+    "redAlliance": [25845, 26333, 16818],
+    "blueAlliance": [28254, 21802, 23897]
+  },
+  {
+    "matchNumber": 5,
+    "redAlliance": [26333, 23651, 28255],
+    "blueAlliance": [999999, 21735, 31609]
+  },
+  {
+    "matchNumber": 6,
+    "redAlliance": [23898, 28255, 23481],
+    "blueAlliance": [28254, 23651, 999999]
+  },
+  {
+    "matchNumber": 7,
+    "redAlliance": [25845, 21802, 23897],
+    "blueAlliance": [999999, 21735, 16818]
+  },
+  {
+    "matchNumber": 8,
+    "redAlliance": [26333, 21735, 31609],
+    "blueAlliance": [28254, 23481, 16818]
+  },
+  {
+    "matchNumber": 9,
+    "redAlliance": [23898, 23651, 28255],
+    "blueAlliance": [25845, 21802, 23897]
+  },
+  {
+    "matchNumber": 10,
+    "redAlliance": [28254, 28255, 31609],
+    "blueAlliance": [26333, 23651, 23897]
+  },
+  {
+    "matchNumber": 11,
+    "redAlliance": [25845, 23898, 16818],
+    "blueAlliance": [21802, 999999, 23481]
+  },
+  {
+    "matchNumber": 12,
+    "redAlliance": [21735, 31609, 23481],
+    "blueAlliance": [25845, 23898, 23897]
+  },
+  {
+    "matchNumber": 13,
+    "redAlliance": [23651, 999999, 28255],
+    "blueAlliance": [28254, 26333, 16818]
+  },
+  {
+    "matchNumber": 14,
+    "redAlliance": [25845, 21735, 31609],
+    "blueAlliance": [23898, 21802, 999999]
+  },
+  {
+    "matchNumber": 15,
+    "redAlliance": [26333, 23481, 16818],
+    "blueAlliance": [21802, 28255, 21735]
+  },
+  {
+    "matchNumber": 16,
+    "redAlliance": [28254, 23897, 21735],
+    "blueAlliance": [23651, 31609, 16818]
+  },
+  {
+    "matchNumber": 17,
+    "redAlliance": [23651, 21802, 23481],
+    "blueAlliance": [23898, 28254, 23897]
+  },
+  {
+    "matchNumber": 18,
+    "redAlliance": [26333, 23651, 21802],
+    "blueAlliance": [25845, 999999, 28255]
+  },
+  {
+    "matchNumber": 19,
+    "redAlliance": [26333, 28255, 23897],
+    "blueAlliance": [25845, 23898, 31609]
+  },
+  {
+    "matchNumber": 20,
+    "redAlliance": [25845, 28254, 21735],
+    "blueAlliance": [999999, 23481, 16818]
+  },
+  {
+    "matchNumber": 21,
+    "redAlliance": [23898, 21802, 21735],
+    "blueAlliance": [999999, 28255, 23897]
+  },
+  {
+    "matchNumber": 22,
+    "redAlliance": [28254, 26333, 16818],
+    "blueAlliance": [23651, 31609, 23481]
+  }
+]

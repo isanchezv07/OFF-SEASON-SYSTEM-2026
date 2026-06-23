@@ -1,0 +1,13 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Admin from '../components/roles/ADMIN/AdminDashboard';
+---
+
+<Layout title="FTC Local Scoring System - Blue Referee">
+  <div id="auth-container" class="h-full" data-auth-required="true">
+    <!-- Client-side rendering will determine whether to show login or controller -->
+    <div id="controller-container">
+      <Admin client:only="react"/>
+    </div>
+  </div>
+</Layout>

@@ -1,0 +1,14 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ScoreController from '../components/roles/ADMIN/ScoreController';
+
+---
+
+<Layout title="FTC Local Scoring System - Score Controller">
+  <div id="auth-container" class="h-full" data-auth-required="true">
+    <!-- Client-side rendering will determine whether to show login or controller -->
+    <div id="controller-container">
+      <ScoreController client:only="react"  />
+    </div>
+  </div>
+</Layout>

@@ -1,0 +1,15 @@
+---
+import Layout from '../layouts/Layout.astro';
+import SplatoonBattle from '../components/animations/SplatoonBattle.jsx'; // o .tsx si usas TS
+---
+
+<Layout title="FTC Local Scoring System - Blue Referee">
+  <SplatoonBattle
+    client:load
+    redScore={2}
+    blueScore={2}
+    redName="RED"
+    blueName="BLUE"
+    onComplete={() => {}}
+  />
+</Layout>

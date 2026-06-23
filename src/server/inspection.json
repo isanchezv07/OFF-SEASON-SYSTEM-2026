@@ -1,0 +1,510 @@
+{
+  "inspections": [
+    {
+      "teamName": "21735",
+      "inspector": "Nat",
+      "sections": [
+        {
+          "id": "physical",
+          "title": "Physical Components",
+          "items": [
+            {
+              "id": "frame",
+              "name": "Frame Structure",
+              "status": "pass",
+              "required": true
+            },
+            {
+              "id": "joints",
+              "name": "Joint Mechanisms",
+              "status": "pass",
+              "required": true
+            }
+          ]
+        },
+        {
+          "id": "electrical",
+          "title": "Electrical Systems",
+          "items": [
+            {
+              "id": "power",
+              "name": "Power System",
+              "status": "pass",
+              "required": true
+            },
+            {
+              "id": "battery",
+              "name": "Battery Health",
+              "status": "pass",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "overallStatus": "pass",
+      "updatedAt": "2025-09-19T19:52:54.295Z",
+      "id": 1758311554555,
+      "createdAt": "2025-09-19T19:52:34.555Z"
+    },
+    {
+      "teamName": "16818",
+      "inspector": "Isaac",
+      "sections": [
+        {
+          "id": "physical",
+          "title": "Physical Components",
+          "items": [
+            {
+              "id": "frame",
+              "name": "Frame Structure",
+              "status": "pass",
+              "required": true
+            },
+            {
+              "id": "joints",
+              "name": "Joint Mechanisms",
+              "status": "pass",
+              "required": true
+            }
+          ]
+        },
+        {
+          "id": "electrical",
+          "title": "Electrical Systems",
+          "items": [
+            {
+              "id": "power",
+              "name": "Power System",
+              "status": "fail",
+              "required": true
+            },
+            {
+              "id": "battery",
+              "name": "Battery Health",
+              "status": "fail",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "overallStatus": "fail",
+      "updatedAt": "2025-09-19T19:53:36.935Z",
+      "id": 1758311597018,
+      "createdAt": "2025-09-19T19:53:17.018Z"
+    },
+    {
+      "teamName": "28254",
+      "inspector": "Isaac",
+      "sections": [
+        {
+          "id": "physical",
+          "title": "Physical Components",
+          "items": [
+            {
+              "id": "frame",
+              "name": "Frame Structure",
+              "status": "fail",
+              "required": true
+            },
+            {
+              "id": "joints",
+              "name": "Joint Mechanisms",
+              "status": "pass",
+              "required": true
+            }
+          ]
+        },
+        {
+          "id": "electrical",
+          "title": "Electrical Systems",
+          "items": [
+            {
+              "id": "power",
+              "name": "Power System",
+              "status": "pass",
+              "required": true
+            },
+            {
+              "id": "battery",
+              "name": "Battery Health",
+              "status": "pass",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "overallStatus": "fail",
+      "updatedAt": "2025-09-19T19:55:17.452Z",
+      "id": 1758311717453,
+      "createdAt": "2025-09-19T19:55:17.453Z"
+    },
+    {
+      "teamName": "23898",
+      "inspector": "Otro",
+      "sections": [
+        {
+          "id": "physical",
+          "title": "Physical Components",
+          "items": [
+            {
+              "id": "frame",
+              "name": "Frame Structure",
+              "status": "fail",
+              "required": true
+            },
+            {
+              "id": "joints",
+              "name": "Joint Mechanisms",
+              "status": "fail",
+              "required": true
+            }
+          ]
+        },
+        {
+          "id": "electrical",
+          "title": "Electrical Systems",
+          "items": [
+            {
+              "id": "power",
+              "name": "Power System",
+              "status": "fail",
+              "required": true
+            },
+            {
+              "id": "battery",
+              "name": "Battery Health",
+              "status": "fail",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "overallStatus": "fail",
+      "updatedAt": "2025-09-19T19:55:27.621Z",
+      "id": 1758311727621,
+      "createdAt": "2025-09-19T19:55:27.621Z"
+    },
+    {
+      "teamName": "25845",
+      "inspector": "Isaac",
+      "sections": [
+        {
+          "id": "physical",
+          "title": "Physical Components",
+          "items": [
+            {
+              "id": "frame",
+              "name": "Frame Structure",
+              "status": "pass",
+              "required": true
+            },
+            {
+              "id": "joints",
+              "name": "Joint Mechanisms",
+              "status": "pass",
+              "required": true
+            }
+          ]
+        },
+        {
+          "id": "electrical",
+          "title": "Electrical Systems",
+          "items": [
+            {
+              "id": "power",
+              "name": "Power System",
+              "status": "pass",
+              "required": true
+            },
+            {
+              "id": "battery",
+              "name": "Battery Health",
+              "status": "pass",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "overallStatus": "pass",
+      "updatedAt": "2025-09-19T19:55:41.353Z",
+      "id": 1758311741353,
+      "createdAt": "2025-09-19T19:55:41.353Z"
+    },
+    {
+      "teamName": "11111",
+      "inspector": "Otro",
+      "sections": [
+        {
+          "id": "physical",
+          "title": "Physical Components",
+          "items": [
+            {
+              "id": "frame",
+              "name": "Frame Structure",
+              "status": "pass",
+              "required": true
+            },
+            {
+              "id": "joints",
+              "name": "Joint Mechanisms",
+              "status": "fail",
+              "required": true
+            }
+          ]
+        },
+        {
+          "id": "electrical",
+          "title": "Electrical Systems",
+          "items": [
+            {
+              "id": "power",
+              "name": "Power System",
+              "status": "fail",
+              "required": true
+            },
+            {
+              "id": "battery",
+              "name": "Battery Health",
+              "status": "pass",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "overallStatus": "fail",
+      "updatedAt": "2025-09-19T19:55:52.382Z",
+      "id": 1758311752382,
+      "createdAt": "2025-09-19T19:55:52.382Z"
+    },
+    {
+      "teamName": "99999",
+      "inspector": "Isaac",
+      "sections": [
+        {
+          "id": "physical",
+          "title": "Physical Components",
+          "items": [
+            {
+              "id": "frame",
+              "name": "Frame Structure",
+              "status": "pass",
+              "required": true
+            },
+            {
+              "id": "joints",
+              "name": "Joint Mechanisms",
+              "status": "pass",
+              "required": true
+            }
+          ]
+        },
+        {
+          "id": "electrical",
+          "title": "Electrical Systems",
+          "items": [
+            {
+              "id": "power",
+              "name": "Power System",
+              "status": "pass",
+              "required": true
+            },
+            {
+              "id": "battery",
+              "name": "Battery Health",
+              "status": "pass",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "overallStatus": "pass",
+      "updatedAt": "2025-09-19T19:56:04.708Z",
+      "id": 1758311764708,
+      "createdAt": "2025-09-19T19:56:04.708Z"
+    },
+    {
+      "teamName": "28255",
+      "inspector": "Nat",
+      "sections": [
+        {
+          "id": "physical",
+          "title": "Physical Components",
+          "items": [
+            {
+              "id": "frame",
+              "name": "Frame Structure",
+              "status": "pass",
+              "required": true
+            },
+            {
+              "id": "joints",
+              "name": "Joint Mechanisms",
+              "status": "pass",
+              "required": true
+            }
+          ]
+        },
+        {
+          "id": "electrical",
+          "title": "Electrical Systems",
+          "items": [
+            {
+              "id": "power",
+              "name": "Power System",
+              "status": "fail",
+              "required": true
+            },
+            {
+              "id": "battery",
+              "name": "Battery Health",
+              "status": "fail",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "overallStatus": "fail",
+      "updatedAt": "2025-09-19T19:56:20.679Z",
+      "id": 1758311780679,
+      "createdAt": "2025-09-19T19:56:20.679Z"
+    },
+    {
+      "teamName": "21802",
+      "inspector": "Nat",
+      "sections": [
+        {
+          "id": "physical",
+          "title": "Physical Components",
+          "items": [
+            {
+              "id": "frame",
+              "name": "Frame Structure",
+              "status": "fail",
+              "required": true
+            },
+            {
+              "id": "joints",
+              "name": "Joint Mechanisms",
+              "status": "fail",
+              "required": true
+            }
+          ]
+        },
+        {
+          "id": "electrical",
+          "title": "Electrical Systems",
+          "items": [
+            {
+              "id": "power",
+              "name": "Power System",
+              "status": "fail",
+              "required": true
+            },
+            {
+              "id": "battery",
+              "name": "Battery Health",
+              "status": "fail",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "overallStatus": "fail",
+      "updatedAt": "2025-09-19T19:56:32.154Z",
+      "id": 1758311792154,
+      "createdAt": "2025-09-19T19:56:32.154Z"
+    },
+    {
+      "teamName": "23481",
+      "inspector": "Otro",
+      "sections": [
+        {
+          "id": "physical",
+          "title": "Physical Components",
+          "items": [
+            {
+              "id": "frame",
+              "name": "Frame Structure",
+              "status": "fail",
+              "required": true
+            },
+            {
+              "id": "joints",
+              "name": "Joint Mechanisms",
+              "status": "pass",
+              "required": true
+            }
+          ]
+        },
+        {
+          "id": "electrical",
+          "title": "Electrical Systems",
+          "items": [
+            {
+              "id": "power",
+              "name": "Power System",
+              "status": "pass",
+              "required": true
+            },
+            {
+              "id": "battery",
+              "name": "Battery Health",
+              "status": "pass",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "overallStatus": "fail",
+      "updatedAt": "2025-09-19T19:56:47.845Z",
+      "id": 1758311807845,
+      "createdAt": "2025-09-19T19:56:47.845Z"
+    },
+    {
+      "teamName": "26333",
+      "inspector": "Pao mich",
+      "sections": [
+        {
+          "id": "physical",
+          "title": "Physical Components",
+          "items": [
+            {
+              "id": "frame",
+              "name": "Frame Structure",
+              "status": "pass",
+              "required": true
+            },
+            {
+              "id": "joints",
+              "name": "Joint Mechanisms",
+              "status": "pass",
+              "required": true
+            }
+          ]
+        },
+        {
+          "id": "electrical",
+          "title": "Electrical Systems",
+          "items": [
+            {
+              "id": "power",
+              "name": "Power System",
+              "status": "pass",
+              "required": true
+            },
+            {
+              "id": "battery",
+              "name": "Battery Health",
+              "status": "pass",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "overallStatus": "pass",
+      "updatedAt": "2025-09-19T19:56:56.943Z",
+      "id": 1758311816943,
+      "createdAt": "2025-09-19T19:56:56.943Z"
+    }
+  ]
+}

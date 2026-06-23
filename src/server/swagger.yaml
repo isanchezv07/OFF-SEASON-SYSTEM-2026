@@ -1,0 +1,120 @@
+openapi: 3.0.0
+info:
+  title: FTC Local Scoring API
+  description: API para gestionar el sistema de puntuación local de FTC.
+  version: 1.0.0
+
+servers:
+  - url: http://localhost:3000
+    description: Servidor local
+
+paths:
+  /api/:
+    get:
+      summary: Obtener todos los datos del sistema
+      description: Devuelve la base de datos completa con usuarios, matches e información del match actual.
+      responses:
+        '200':
+          description: Respuesta exitosa
+          content:
+            application/json:
+              schema:
+                type: object
+
+  /api/users:
+    get:
+      summary: Obtener lista de usuarios
+      description: Retorna todos los usuarios registrados.
+      responses:
+        '200':
+          description: Lista de usuarios
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    id:
+                      type: integer
+                    username:
+                      type: string
+                    password:
+                      type: string
+                    role:
+                      type: string
+
+  /api/match:
+    get:
+      summary: Obtener estado actual del match
+      description: Devuelve el estado del match actual, incluyendo equipos, scores y tiempo.
+      responses:
+        '200':
+          description: Estado actual del match
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  inProgress:
+                    type: boolean
+                    example: false
+                  timeRemaining:
+                    type: integer
+                    enum: [150]
+                  redTeam:
+                    type: object
+                    properties:
+                      name:
+                        type: string
+                      score:
+                        type: integer
+                  blueTeam:
+                    type: object
+                    properties:
+                      name:
+                        type: string
+                      score:
+                        type: integer
+                  showScores:
+                    type: boolean
+                    example: true
+                  showWinner:
+                    type: boolean
+                    example: false
+
+  /api/matches:
+    get:
+      summary: Obtener historial de matches
+      description: Devuelve la lista completa de matches jugados anteriormente.
+      responses:
+        '200':
+          description: Lista de matches
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    id:
+                      type: integer
+                    date:
+                      type: string
+                      format: date-time
+                    redTeam:
+                      type: object
+                      properties:
+                        name:
+                          type: string
+                        score:
+                          type: integer
+                    blueTeam:
+                      type: object
+                      properties:
+                        name:
+                          type: string
+                        score:
+                          type: integer
+                    timeRemaining:
+                      type: integer

@@ -1,0 +1,293 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Admin",
+      "password": "Admin",
+      "role": "admin"
+    }
+  ],
+  "matches": [
+    {
+      "id": 1766077012335,
+      "date": "2025-12-18T16:56:52.335Z",
+      "redTeam": {
+        "name": "Red Alliance",
+        "score": 0,
+        "teams": [
+          "00000",
+          "00000",
+          "00000"
+        ],
+        "rp": 1.5,
+        "detailedScore": {
+          "autoParkA": false,
+          "autoParkB": false,
+          "autoParkC": false,
+          "autoDebris": 0,
+          "autoSpecimenNearLow": 0,
+          "autoSpecimenNearHigh": 0,
+          "autoSpecimenFarLow": 0,
+          "autoSpecimenFarHigh": 0,
+          "teleDebris": 0,
+          "teleSpecimenNearLow": 0,
+          "teleSpecimenNearHigh": 0,
+          "teleSpecimenFarLow": 0,
+          "teleSpecimenFarHigh": 0,
+          "endgameBannerA": 0,
+          "endgameBannerB": 0,
+          "endgameBannerC": 0,
+          "teleopParkA": 0,
+          "teleopParkB": 0,
+          "teleopParkC": 0,
+          "minorFoul": 0,
+          "majorFoul": 0,
+          "autoRP": false
+        },
+        "cards": {
+          "team": {},
+          "alliance": {
+            "yellow": false,
+            "red": false
+          }
+        }
+      },
+      "blueTeam": {
+        "name": "Blue Alliance",
+        "score": 0,
+        "teams": [
+          "00000",
+          "00000",
+          "00000"
+        ],
+        "rp": 1.5,
+        "detailedScore": {
+          "autoParkA": false,
+          "autoParkB": false,
+          "autoParkC": false,
+          "autoDebris": 0,
+          "autoSpecimenNearLow": 0,
+          "autoSpecimenNearHigh": 0,
+          "autoSpecimenFarLow": 0,
+          "autoSpecimenFarHigh": 0,
+          "teleDebris": 0,
+          "teleSpecimenNearLow": 0,
+          "teleSpecimenNearHigh": 0,
+          "teleSpecimenFarLow": 0,
+          "teleSpecimenFarHigh": 0,
+          "endgameBannerA": 0,
+          "endgameBannerB": 0,
+          "endgameBannerC": 0,
+          "teleopParkA": 0,
+          "teleopParkB": 0,
+          "teleopParkC": 0,
+          "minorFoul": 0,
+          "majorFoul": 0,
+          "autoRP": false
+        },
+        "cards": {
+          "team": {},
+          "alliance": {
+            "yellow": false,
+            "red": false
+          }
+        }
+      },
+      "timeRemaining": 0
+    },
+    {
+      "id": 1769211774127,
+      "date": "2026-01-23T23:42:54.127Z",
+      "redTeam": {
+        "name": "Red Alliance",
+        "score": 0,
+        "teams": [
+          16818,
+          21735,
+          21802
+        ],
+        "rp": 1.5,
+        "detailedScore": {
+          "autoParkA": false,
+          "autoParkB": false,
+          "autoParkC": false,
+          "autoDebris": 0,
+          "autoSpecimenNearLow": 0,
+          "autoSpecimenNearHigh": 0,
+          "autoSpecimenFarLow": 0,
+          "autoSpecimenFarHigh": 0,
+          "teleDebris": 0,
+          "teleSpecimenNearLow": 0,
+          "teleSpecimenNearHigh": 0,
+          "teleSpecimenFarLow": 0,
+          "teleSpecimenFarHigh": 0,
+          "endgameBannerA": 0,
+          "endgameBannerB": 0,
+          "endgameBannerC": 0,
+          "teleopParkA": 0,
+          "teleopParkB": 0,
+          "teleopParkC": 0,
+          "minorFoul": 0,
+          "majorFoul": 0,
+          "autoRP": false
+        }
+      },
+      "blueTeam": {
+        "name": "Blue Alliance",
+        "score": 0,
+        "teams": [
+          23481,
+          23651,
+          23897
+        ],
+        "rp": 1.5,
+        "detailedScore": {
+          "autoRP": false,
+          "autoParkA": false,
+          "autoParkB": false,
+          "autoParkC": false,
+          "autoDebris": 0,
+          "autoSpecimenNearLow": 0,
+          "autoSpecimenNearHigh": 0,
+          "autoSpecimenFarLow": 0,
+          "autoSpecimenFarHigh": 0,
+          "teleDebris": 0,
+          "teleSpecimenNearLow": 0,
+          "teleSpecimenNearHigh": 0,
+          "teleSpecimenFarLow": 0,
+          "teleSpecimenFarHigh": 0,
+          "teleopParkA": 0,
+          "teleopParkB": 0,
+          "teleopParkC": 0,
+          "minorFoul": 0,
+          "majorFoul": 0,
+          "endgameBannerA": 0,
+          "endgameBannerB": 0,
+          "endgameBannerC": 0
+        }
+      },
+      "timeRemaining": 158
+    }
+  ],
+  "currentMatch": {
+    "type": "T",
+    "number": 2,
+    "inProgress": false,
+    "timeRemaining": 158,
+    "autoDuplicate": false,
+    "redTeam": {
+      "name": "Red Alliance",
+      "score": 0,
+      "teams": [
+        23898,
+        25845,
+        26333
+      ],
+      "rp": 1.5,
+      "detailedScore": {
+        "autoParkA": false,
+        "autoParkB": false,
+        "autoParkC": false,
+        "autoDebris": 0,
+        "autoSpecimenNearLow": 0,
+        "autoSpecimenNearHigh": 0,
+        "autoSpecimenFarLow": 0,
+        "autoSpecimenFarHigh": 0,
+        "teleDebris": 0,
+        "teleSpecimenNearLow": 0,
+        "teleSpecimenNearHigh": 0,
+        "teleSpecimenFarLow": 0,
+        "teleSpecimenFarHigh": 0,
+        "endgameBannerA": 0,
+        "endgameBannerB": 0,
+        "endgameBannerC": 0,
+        "teleopParkA": 0,
+        "teleopParkB": 0,
+        "teleopParkC": 0,
+        "minorFoul": 0,
+        "majorFoul": 0,
+        "autoRP": false
+      }
+    },
+    "blueTeam": {
+      "name": "Blue Alliance",
+      "score": 0,
+      "teams": [
+        28254,
+        28255,
+        31609
+      ],
+      "rp": 1.5,
+      "detailedScore": {
+        "autoRP": false,
+        "autoParkA": false,
+        "autoParkB": false,
+        "autoParkC": false,
+        "autoDebris": 0,
+        "autoSpecimenNearLow": 0,
+        "autoSpecimenNearHigh": 0,
+        "autoSpecimenFarLow": 0,
+        "autoSpecimenFarHigh": 0,
+        "teleDebris": 0,
+        "teleSpecimenNearLow": 0,
+        "teleSpecimenNearHigh": 0,
+        "teleSpecimenFarLow": 0,
+        "teleSpecimenFarHigh": 0,
+        "teleopParkA": 0,
+        "teleopParkB": 0,
+        "teleopParkC": 0,
+        "minorFoul": 0,
+        "majorFoul": 0,
+        "endgameBannerA": 0,
+        "endgameBannerB": 0,
+        "endgameBannerC": 0
+      }
+    },
+    "showScores": true,
+    "showWinner": false
+  },
+  "ranking": [
+    {
+      "teamId": 16818,
+      "avgRP": 1.5,
+      "avgAuto": 0,
+      "avgParking": 0,
+      "matches": 1
+    },
+    {
+      "teamId": 21735,
+      "avgRP": 1.5,
+      "avgAuto": 0,
+      "avgParking": 0,
+      "matches": 1
+    },
+    {
+      "teamId": 21802,
+      "avgRP": 1.5,
+      "avgAuto": 0,
+      "avgParking": 0,
+      "matches": 1
+    },
+    {
+      "teamId": 23481,
+      "avgRP": 1.5,
+      "avgAuto": 0,
+      "avgParking": 0,
+      "matches": 1
+    },
+    {
+      "teamId": 23651,
+      "avgRP": 1.5,
+      "avgAuto": 0,
+      "avgParking": 0,
+      "matches": 1
+    },
+    {
+      "teamId": 23897,
+      "avgRP": 1.5,
+      "avgAuto": 0,
+      "avgParking": 0,
+      "matches": 1
+    }
+  ]
+}
